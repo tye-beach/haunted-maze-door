@@ -1,3 +1,4 @@
+# Opens a door from password
 import time
 
 password = "12345"
